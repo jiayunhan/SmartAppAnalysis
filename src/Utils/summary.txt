@@ -1,0 +1,90 @@
+installed   0   {U}
+updated 0   {U}
+uninstalled 0   {U}
+addChildApp 3   {U}
+addChildApp 4   {U}
+addChildDevice  3   {U}
+addChildDevice  4   {U}
+addChildDevice  4   {U}
+apiServerUrl    1   {arg1}
+canSchedule 0   {U}
+findChildAppByName  1   {arg1}
+getChildApps    0   {U}
+deleteChildDevice   1   {U}
+getAllChildDevices  0   {U}
+getApiServerUrl 0   {U}
+getChildDevice  1   {arg1}
+getChildDevices 1   {U}
+getSunriseAndSunset 0   {U}
+getSunriseAndSunset 1   {arg1}
+getWeatherFeature   1   {arg1}
+getWeatherFeature   2   {arg1 or arg2}
+httpDelete  1   {U}
+httpDelete  2   {U}
+httpDelete  3   {arg1 or arg2}  {arg3}
+httpError   2   {U}
+httpGet 1   {U}
+httpGet 2   {U}
+httpGet 3   {arg1 or arg2}  {arg3}
+httpHead 1   {U}
+httpHead 2   {U}
+httpHead 3   {arg1 or arg2}  {arg3}
+httpPost 1   {U}
+httpPost 2   {U}
+httpPost 3   {arg1 or arg2}  {arg3}
+httpPostJson 1   {U}
+httpPostJson 2   {U}
+httpPostJson 3   {arg1 or arg2}  {arg3}
+httpPut 1   {U}
+httpPut 2   {U}
+httpPut 3   {arg1 or arg2}  {arg3}
+httpPutJson 1   {U}
+httpPutJson 2   {U}
+httpPutJson 3   {arg1 or arg2}  {arg3}
+now 0   {U}
+parseJson   1   {arg1}
+parseXml    1   {arg1}
+parseLanMessage 1   {arg1}
+parseSoapMessage    1   {arg1}
+render  1   {U}
+runIn   2   {U}
+runIn   3   {U}
+runEvery5Minutes    1   {U}
+runEvery10Minutes   1   {U}
+runEvery15Minutes   1   {U]
+runEvery30Minutes   1   {U}
+runEvery1Hour   1   {U}
+runEvery3Hours  1   {U}
+runOnce 2   {U}
+schedule    3   {U}
+sendEvent   1   {U}
+sendLocationEvent   1   {U}
+sendNotification    1   {U}
+sendNotification    2   {U}
+sendNotificationEvent   1   {U}
+sendNotificationToContacts  1   {U}
+sendPush    1   {U}
+sendPushMessage 1   {U}
+sendSms 2   {U}
+sendSmsMessage  2   {U}
+setLocationMode 1   {arg1}  {location}
+stringToMap 1   {arg1}
+subscribe   1   {U}
+subscribe   2   {U}
+subscribe   3   {U}
+subscribeToCommand  3   {U}
+timeOfDayIsBetween  4   {arg1 or arg2 or arg3 or arg4}
+timeOffset  1   {arg1}
+timeToday   1   {arg1}
+timeToday   2   {arg1 or arg2}
+timeTodayAfter  2   {arg1 or arg2}
+timeTodayAfter  3   {arg1 or arg2 or arg3}
+timeZone    1   {arg1}
+toDateTime  1   {arg1}
+unschedule  0   {U}
+unsubscribe 0   {U}
+
+
+
+
+

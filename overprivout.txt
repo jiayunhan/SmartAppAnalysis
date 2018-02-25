@@ -1,0 +1,752 @@
+
+--app-start--
+processing 43Thermostat.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+--app-start--
+processing DoorOpenWarningLight.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+summary
+cmd overpriv:0
+attr overpriv:0
+num reflection:0
+total:0
+type2 overprivilege total:0
+samename_flags:0
+type2 cmd/attr uses:0
+numSendSms: 0
+numOAuth: 0
+numInternet: 0
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing 43Thermostat.txt.groovy
+--app-start--
+processing 43Thermostat.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing Autolockdoor.txt.groovy
+--app-start--
+processing FeedMyPet.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
+--app-start--
+processing LeftUnlocked.txt.groovy
